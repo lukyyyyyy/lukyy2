@@ -1,0 +1,275 @@
+
+body
+{
+        background-color: black;
+        padding: 0;
+        margin: 0;
+        overflow-y: scroll;
+        text-align: right;
+        padding-top: 0px;
+        
+}
+
+header 
+{
+    background-color: gray;
+    padding: 15px;
+    box-shadow: 0 0 0 3px black;
+    
+   
+
+}
+
+
+header li
+{
+    display: inline;
+    padding-left: 45px;
+    
+
+    
+}
+
+header li a 
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 14px;
+    transition: .3s ease;
+    font-family: "Lucida Console", "Courier New", monospace;
+   
+}
+
+header li a:hover
+{
+    color: rgb(17, 17, 17);
+    border: 1px solid
+}
+
+
+#p1 
+{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    
+}
+
+#Museh1
+{
+ 
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: relative;
+    top: 50px;
+}
+
+#integrantesh2
+{
+    text-align: left;      
+    font-family: "Lucida Console", "Courier New", monospace;               
+     margin: 0;  
+     position: absolute;
+     top: 80%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 20px;
+    font-size: xx-large;    
+   
+      
+}
+
+
+#img1
+
+{
+    
+    position: relative;
+    top: 100px; 
+    left: -400px;
+    width: 400px;
+    height: 400px;
+    margin: 30%;
+    display: block;
+    
+
+}
+
+
+#img2
+
+{
+    
+    position: relative;
+    top: -715px; 
+    left: 550px;
+    width: 400px;
+    height: 400px;
+    margin: 30%;
+    display: block;
+    
+
+}
+
+
+#img3
+
+{
+    
+    position: relative;
+    top: -1530px; 
+    left: 80px;
+    width: 400px;
+    height: 400px;
+    margin: 30%;
+    display: block;
+    
+
+}
+
+#Desc
+{
+    text-align: center;      
+    font-family: "Lucida Console", "Courier New", monospace;   
+    color: white;
+    position: absolute;
+    top:40%;
+    left: 30px;
+    font-size: xx-large; 
+
+   
+
+}
+
+
+
+footer 
+{
+    background-color: gray;
+    padding: 15px;
+    box-shadow: 0 0 0 3px black;
+
+}
+
+footer li
+{
+    display: inline;
+    padding-left: 45px;
+}
+
+footer li a 
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 13px;
+    transition: .3s ease;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+
+footer li a:hover
+{
+    color: rgb(48, 48, 48);
+    border: 1px solid
+}
+
+#Info 
+{
+          
+    text-align: center;      
+    font-family: "Lucida Console", "Courier New", monospace;               
+     margin: 0;  
+     position: absolute;
+     top: 1400px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 600px;
+    font-size: xx-large;    
+    color: white;
+    
+
+}
+
+#id
+{
+    color: white;
+    text-align: center;      
+    font-family: "Lucida Console", "Courier New", monospace;               
+     margin: 0;  
+     position: absolute;
+     top: 1550px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 430px;   
+    color: white;
+    font-size: x-large; 
+}
+
+
+#TheEvil {
+    width: 600px;
+    height: 300px;
+    border: solid red 2px;
+    position: absolute;
+    top: 1340px; left: 380px;
+    
+    
+    
+  }
+
+
+  p.center {
+  text-align: center;
+  color: red;
+}
+
+table, td, th {
+    border: 1px solid;
+    border-color: red;
+    color: red;
+  }
+  
+ 
+
+  table {
+    width: 50%;
+    border-color: red;
+    position: absolute;
+    top: 1100px; left: 330px;
+}
+
+#minombre
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+   
+}
+
+#miapellido
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+#micorreo
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#minumero
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#micontacto
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+}

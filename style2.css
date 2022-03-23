@@ -1,0 +1,59 @@
+#TheEvil {
+    width: 600px;
+    height: 300px;
+    border: solid red 2px;
+    position: absolute;
+    top: 250px; left: 380px;
+    
+    
+    
+  }
+
+
+
+  #id
+{
+    color: white;
+    text-align: center;      
+    font-family: "Lucida Console", "Courier New", monospace;               
+     margin: 0;  
+     position: absolute;
+     top: 400px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 430px;   
+    color: white;
+    font-size: x-large; 
+}
+
+#abc
+{
+    color: red;
+    text-align: center;      
+    font-family: "Lucida Console", "Courier New", monospace;               
+     margin: 10;  
+     position: absolute;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-45%);  
+    color: white;
+    font-size: x-large;
+    left: 200px;
+    
+}
+
+#abdce
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: .3s ease;
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: absolute;
+    left: 270px; top: 40px;
+}
+
+#abdce:hover
+
+{
+    color: red;
+    border: 4px solid
+}
